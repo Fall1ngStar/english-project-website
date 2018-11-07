@@ -16,4 +16,5 @@ deploy:
   keep-history: true
 branches:
   only:
-  - master
+      - gh-pages
+      - /.*/
