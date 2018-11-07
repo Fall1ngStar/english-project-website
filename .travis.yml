@@ -14,7 +14,7 @@ deploy:
   skip-cleanup: true
   github-token: $GITHUB_TOKEN
   keep-history: true
-  repo: fall1ngstar.github.io
+  repo: Fall1ngStar/fall1ngstar.github.io
 branches:
   only:
     - master
