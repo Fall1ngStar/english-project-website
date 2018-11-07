@@ -12,16 +12,20 @@ This language seems to be a really complete programming language and permit to d
 Also, **Golang** is usable for programming the **Twitter Bot** we want to do thanks to a lot of libraries.
 
 ### Exemples :
-    var i int = 0
-    j := 0
 Here there are two way to initialize variables, they are equivalents but the second is shorter.
 
+```go
+var i int = 0
+j := 0
+```
 
-    func test(x, y string) (string, string) {
-    	return y, x
-    }
 This is the way to initialize functions in **Golang**.
 The first key word is *func* followed by the name of the function, here *test*.
 The first brackets are the passing arguments and their type, and the seconds are the type of the return arguments.
 With **Golang**, you can return more than one arguments.
 
+```go
+func test(x, y string) (string, string) {
+    return y, x
+}
+```
