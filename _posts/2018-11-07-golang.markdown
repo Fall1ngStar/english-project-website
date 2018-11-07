@@ -1,4 +1,10 @@
-# Golang
+---
+layout: post
+title:  "Golang"
+date:   2018-11-07 11:23:58 +0100
+categories: golang discovery
+---
+
 **Golang** is a programming language created by **Google** used in a lot of projects, like **Docker, Kubernetes, Uber, …**
 
 This language seems to be a really complete programming language and permit to do a lot of things, to make syntax clear and concise, and make complex calculations.
