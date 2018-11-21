@@ -1,9 +1,8 @@
-
 ---
 layout: post
 title:  "Project"
-date:   2018-11-07 11:30:58 +0100
-categories: project golang discovery
+date:   2018-11-07 11:20:58 +0100
+categories: project discovery
 ---
 
 We are going to program a **Twitter bot** named **Planning Twitter Bot** that is sending :
