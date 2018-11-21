@@ -6,6 +6,7 @@ branches:
 script:
   - JEKYLL_ENV=production bundle exec jekyll build --destination site
 deploy:
+  fqdn: english-project.tgarcin.fr
   provider: pages
   local-dir: ./site
   target-branch: master
