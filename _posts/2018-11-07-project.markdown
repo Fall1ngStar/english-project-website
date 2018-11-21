@@ -10,7 +10,7 @@ We are going to program a **Twitter bot** named **Planning Twitter Bot** that is
  - A daily planning **every evening**
  - A weekly planning **every sunday**
 
-We will use the [Golang](https://english-project.tgarcin.fr/golang/discovery/2018/11/07/golang.html) to program it, and it will be host on AWS.
+We will use the [Golang](https://english-project.tgarcin.fr/golang/discovery/2018/11/07/golang.html) to program it, and it will be host on **AWS**.
 
 If this project is too easy to realize, a good next step is to add a graphical planning generation (an image) that is send every week.
 
