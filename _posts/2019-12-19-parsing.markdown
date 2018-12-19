@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Parsing iCalendar"
+date:   2018-12-19 12:30:00 +0100
+categories: golang development
+---
+
+Today I started the development of the step that permit transform **iCalendar** file into a tweet which will be send
+
+I start to read the **iCalendar** file and put it as a **string**, that I parse to have all the data into a **map**.
+After, I choose the data we need to do tweets and I put them in a **string**.
+
+For now, I done the parsing of the **iCalendar** file, and I'm working on the data.
+
+*Made by Tony*
