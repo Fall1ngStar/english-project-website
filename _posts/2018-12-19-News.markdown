@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "19/12/2018 - News"
+date:   2018-12-19 11:23:58 +0100
+categories: development news
+---
+
+Today we had to develop a part of the code that is sending tweets automatically.
+
+After some tests the bot can now tweet every minutes and remove his proper tweets.
+
+This code example will be useful in the future to tweet the planning everyday.
+
+```
+
+*Made by Sandro*
